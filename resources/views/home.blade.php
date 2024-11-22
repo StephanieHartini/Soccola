@@ -9,7 +9,6 @@
     <div class="container section-title" data-aos="fade-up">
         <h1>Welcome to <span class="text-warning">Soccola</span></h1>
         <p class="lead">Discover Your Beauty Essentials with Our Curated Makeup and Skincare Collections</p>
-        <a href="#categories" class="btn btn-light btn-lg mt-4">Explore Products</a>
     </div>
 </section>
 

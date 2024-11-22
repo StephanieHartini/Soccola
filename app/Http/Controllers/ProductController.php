@@ -10,8 +10,8 @@ class ProductController extends Controller
 {
     public function search(Request $req)
 {
-    $option = $req->query('option', 'All'); // Default to 'All' if option is not provided
-    $search = $req->query('search', ''); // Default to empty string if search is not provided
+    $option = $req->query('option', 'All');
+    $search = $req->query('search', '');
 
     // Initialize query on the Product model
     $query = Product::query();
